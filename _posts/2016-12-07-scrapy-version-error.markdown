@@ -11,14 +11,14 @@ tags:
     - OSX
     - pip
     - python
-    -scrapy
+    - scrapy
 ---
 
 > Please indicate the source of forwarding (http://haoking.me)
 
 
 
-## scrapy version error
+## **scrapy version error**
 
 **error: cannot import name xmlrpc_client **
 
