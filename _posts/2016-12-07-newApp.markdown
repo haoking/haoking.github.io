@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Begin me New App?"
+title:      "pip install guide"
 date:       2016-12-07 22:00:00
 author:     "Haoking"
 header-img: "img/post-bg-miui6.jpg"
@@ -9,18 +9,21 @@ tags:
     - iOS
 ---
 
-> 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/24783844/answer/29286896)
+> Please indicate the source of forwarding (http://haoking.me)
 
 
 <div>
-    <blockquote>MIUI 6，充满了“借鉴”，iOS 7 版的 Android……
-        <br>米 4，碉堡了，不服跑个分，简直就是 iPhone 4……</blockquote>你们说得这些我一点都不反对。
+```objective-c
+<blockquote>pip install 
     <br>
-    <br><b>可是，你们对小米的要求太高了</b>。
-    <br>/Users/WangHaoChen/Desktop/ZTEImage/图层 0.png
+<br>
+<br><b>pip is a package management system used to install and manage softeare packages written in Python.</b>。
+```
 
-    <br>其实小米说到底也不过是一个才初创4年的公司而已，
-    <br><b>你是指望小米能引领一套新的设计风格？</b>
+
+
+    <br>When you install pip on OSX.
+    abcdefggggggggggggg
     <br><b>还是指望它能在国际上体现一下我国的自主创新能力？</b>
     <br>
     <br>你想太多了。
