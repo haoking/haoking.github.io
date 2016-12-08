@@ -5,14 +5,13 @@ subtitle:   ""
 date:       2016-12-07 23:00:00
 author:     "Haoking"
 header-img: "img/post-bg-re-vs-ng2.jpg"
-header-mask: 0.3
-catalog:    true
 tags:
     - iOS
     - Front-end
     - OSX
-    -pip
-    -python
+    - pip
+    - python
+    -scrapy
 ---
 
 > Please indicate the source of forwarding (http://haoking.me)
