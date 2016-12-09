@@ -15,9 +15,8 @@ tags:
     - scrollView
 ---
 
-> Please indicate the source of forwarding (http://haoking.me)
+> [Please indicate the source of forwarding](http://haoking.me).
 >
-> [haoking]: http://haoking.me	"Haoking"
 
 
 
