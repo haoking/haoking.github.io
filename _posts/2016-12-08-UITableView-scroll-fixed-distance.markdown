@@ -17,7 +17,7 @@ tags:
 
 > Please indicate the source of forwarding (http://haoking.me)
 >
-> [hacking]: http://haoking.me
+> [haoking]: http://haoking.me	"Haoking"
 
 
 
