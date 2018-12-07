@@ -17,7 +17,7 @@ tags:
 
 
 
-## **Some .a or framework cannot compile on simulator **
+## **.a or framework cannot compile on simulator **
 
 **Architecture x86_64 error**
 
