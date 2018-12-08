@@ -155,7 +155,7 @@ set pythonthreehome=/usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/V
 
 The following is my .vimrc
 
-![1544212776677](post_Images/2018_12_08/1544212776677.jpg)
+![1544212776677](/post_Images/2018_12_08/1544212776677.jpg)
 
 
 
