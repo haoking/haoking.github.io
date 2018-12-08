@@ -4,7 +4,7 @@ title:      "MacVim and YouCompleteMe"
 subtitle:   "Vim on MacOS and code-completion"
 date:       2018-12-08 10:00:00
 author:     "Haoking"
-header-img: "_post_Images/2018_12_08/Homeslider_05.jpg"
+header-img: "post_Images/2018_12_08/Homeslider_05.jpg"
 tags:
     - Vim
     - MacVim
