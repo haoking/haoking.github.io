@@ -64,7 +64,7 @@ $ brew install macvim
 $ mvim
 ```
 
-![1544152924122](_post_Images/2018_12_08/1544152924122.jpg)
+![1544152924122](post_Images/2018_12_08/1544152924122.jpg)
 
 
 
@@ -155,7 +155,7 @@ set pythonthreehome=/usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/V
 
 The following is my .vimrc
 
-![1544212776677](/_post_Images/2018_12_08/1544212776677.jpg)
+![1544212776677](post_Images/2018_12_08/1544212776677.jpg)
 
 
 
@@ -190,19 +190,19 @@ The Screenshot following:
 
 **Java:**
 
-![1544213445804](/_post_Images/2018_12_08/1544213445804.jpg)
+![1544213445804](post_Images/2018_12_08/1544213445804.jpg)
 
 
 
 **Python:**
 
-![1544231886487](/_post_Images/2018_12_08/1544231886487.jpg)
+![1544231886487](/post_Images/2018_12_08/1544231886487.jpg)
 
 
 
 **C++:**
 
-![1544232287849](/_post_Images/2018_12_08/1544232287849.jpg)
+![1544232287849](/post_Images/2018_12_08/1544232287849.jpg)
 
 
 
