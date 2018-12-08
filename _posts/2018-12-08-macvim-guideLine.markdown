@@ -4,7 +4,7 @@ title:      "MacVim and YouCompleteMe"
 subtitle:   "Vim on MacOS and code-completion"
 date:       2018-12-08 10:00:00
 author:     "Haoking"
-header-img: "_post_Images/2018_12_08/687474703a2f2f692e696d6775722e636f6d2f304f50346f6f642e676966.gif"
+header-img: "_post_Images/2018_12_08/Homeslider_05.jpg"
 tags:
     - Vim
     - MacVim
@@ -64,9 +64,7 @@ $ brew install macvim
 $ mvim
 ```
 
-
-
-![1544152924122](/_post_Images/2018_12_08/1544152924122.jpg)
+![1544152924122](_post_Images/2018_12_08/1544152924122.jpg)
 
 
 
